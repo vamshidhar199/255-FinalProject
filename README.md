@@ -15,4 +15,4 @@
 - IV Experiment and Analysis [section 1 to 4]
   - Developed ANN Model, Random Forest Regressor, Light GBM and LSTM
 - V Comparing the models
-  - Compared ANN,Random Forest, Light GBM and
+  - Compared ANN,Random Forest, Light GBM and LSTM
