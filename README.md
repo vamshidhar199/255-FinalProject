@@ -1,9 +1,10 @@
 # 255-FinalProject
-## Team 15  Walmart Sales Prediction
+## Team 15  Walmart Sales Prediction [ Algorithm Track ]
 -  Vamshidhar Reddy Parupally - 016001427
 -  Tirupati Venkata Sri Sai Rama Raju Penmatsa - 016037047
 ## Contributions
 ### Vamshidhar Reddy Parupally
+
 - **Modules and Contribution briefing [ Refere sections in project document ]**
 - Module II Data - A and B :
   - Gathering data set from kaggle and merging data to single csv file to make the training process easy.
