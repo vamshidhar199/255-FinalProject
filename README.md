@@ -11,8 +11,9 @@
 ## Contributors
 ### Vamshidhar Reddy Parupally - Contribution
 
+![image](https://user-images.githubusercontent.com/42996478/168497651-b2f48906-a070-49ec-98cd-8f07a011b5e4.png)
 
-![Screen Shot 2022-05-07 at 3 29 17 PM](https://user-images.githubusercontent.com/42996478/167273890-b93c5b2e-515c-4d98-abc3-49477209b2d4.png)
+
 
 <hr>
 
@@ -68,6 +69,10 @@ not.
 ![image](https://user-images.githubusercontent.com/42996478/168497020-4e78c7f6-29e9-406d-b986-83ce17d88fc2.png)
 ![image](https://user-images.githubusercontent.com/42996478/168496988-61b8519f-a8a1-4dc9-8156-0b26bc544cc3.png)
 ![image](https://user-images.githubusercontent.com/42996478/168496992-a0aeb85a-793f-4288-b4bd-7c98359f1491.png)
+
+- Label encoding
+
+![image](https://user-images.githubusercontent.com/42996478/168497708-d7fd8eeb-127a-4875-ba3e-d8a807550c44.png)
 
 - Marking the NA values as 0 for “MarkDown” ‘s and dropping “CPI” and “Unemployment”
 - Removing Anomalies
