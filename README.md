@@ -5,7 +5,8 @@
 
 ## Details
 - Dataset : https://www.kaggle.com/competitions/walmart-recruiting-store-sales-forecasting
-- Colab notebook for Vamshidhar Reddy's Contribution [also included file in github, with name walmart-vamshidharcontribution.ipynb]: https://colab.research.google.com/drive/1PZpK60do4ptjMqOB4-XqOD75bDw2ygNl?usp=sharing
+- Colab notebook for Vamshidhar Reddy's Contribution [also included file in github]: 
+  https://colab.research.google.com/drive/1PZpK60do4ptjMqOB4-XqOD75bDw2ygNl?usp=sharing
 - Colab notebook for Tirupati Venkata Sri Sai Rama Raju's Contribution :
  https://colab.research.google.com/drive/1fGAk9V3JTfaEljtP4_vEmfswIwGbq0gA?usp=sharing
  
