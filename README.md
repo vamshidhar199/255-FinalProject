@@ -23,8 +23,9 @@
 
 ### Tirupati Venkata Sri Sai Rama Raju Penmatsa - Contribution
 
+![image](https://user-images.githubusercontent.com/42996478/169912307-786a30d9-dcf6-4707-8fce-6d277dfd5fee.png)
 
-![Contributions](https://user-images.githubusercontent.com/48201939/167557235-1b5079c3-b64f-49ca-9242-7808dcbb186a.png)
+
 
 
 <hr>
